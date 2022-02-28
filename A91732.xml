@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The rule of the new creature to bee practised every day, in all the particulars of it which are ten Gal. 6.16.</title>
+            <author>Reyner, Edward, 1600-1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91732</idno>
+            <idno type="STC">Wing R1229A</idno>
+            <idno type="STC">Thomason E1189_1</idno>
+            <idno type="STC">ESTC R208268</idno>
+            <idno type="EEBO-CITATION">99867230</idno>
+            <idno type="PROQUEST">99867230</idno>
+            <idno type="VID">169453</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91732)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169453)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1189[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The rule of the new creature to bee practised every day, in all the particulars of it which are ten Gal. 6.16.</title>
+                  <author>Reyner, Edward, 1600-1668.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed, anno 1644. [i.e. 1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous; attributed to Edward Reyner by Wing.</note>
+                  <note>Place and actual date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Jan: 22th. London".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Galatians --  Commentaries --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ari Friedlander</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ari Friedlander</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169453:1" rendition="simple:additions"/>
+            <p>THE Rule of the new CREATVRE To bee practiſed every day, in all the particulars of it which are ten <hi>Gal.</hi> 6.16.</p>
+            <figure/>
+            <p>Printed, Anno 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169453:2"/>
+            <pb n="3" facs="tcp:169453:2"/>
+            <head>THE Rule of the New Creature to bee practiſed every day, in all the particulars of it which are ten <hi>Gal.</hi> 6.16.</head>
+            <p n="1">1. BE ſenſible Of thy originall corruption daily, how it inclines thee to evill, and indiſpoſeth thee to good; groane vnder it, and be<g ref="char:EOLhyphen"/>waile it, as Paul did, <hi>Rom.</hi> 7.24.</p>
+            <p>Alſo take ſpeciall notice of your ac<g ref="char:EOLhyphen"/>tuall ſinnes, or daily infirmities, in thought, word, deed. Indeavour to make your peace with God for them before you goe to bed.</p>
+            <p>By
+<list>
+                  <item>Repenting, and confeſſing them to God, working your heart to gre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fe for them, by ſome melting conſideratio<g ref="char:cmbAbbrStroke">̄</g>s, as of Gods good<g ref="char:EOLhyphen"/>neſſe to you, the vnreaſonableneſſe, and vnprofitableneſſe of ſinne, the preju<g ref="char:EOLhyphen"/>dice, and dammage thereof to the ſoul, <hi>Iohn.</hi> 1.1.9.</item>
+                  <item>Beleeving, or caſting your ſelfe wholy on Chriſts righteouſneſſe, for remiſſion thereof, and reconciliation with God, <hi>Rom.</hi> 3.22 24.25. Cleaving to Gods promiſes of pardon, &amp; peace, <hi>Iſaiah</hi> 43.25. <hi>Rom</hi> 5.1. waitinge till the Lord ſhall ſpeake to you, <hi>Pſal.</hi> 85.8.</item>
+               </list>
+            </p>
+            <p n="2">2. Get your vnion with Chriſt, and intereſt in Chriſt, cleered, &amp; co<g ref="char:cmbAbbrStroke">̄</g>firmed to you daily more
+<pb n="4" facs="tcp:169453:3"/>and more, that you are a branch in his vine, a member in his body, <hi>Cor.</hi> 2.13.5 This may bee done 3 wayes.</p>
+            <p n="1">1. By daily renewal of your faith in Chriſt, eſpecially of that act of faith, whereby the ſoule knits, or tyes it ſelfe vnto Chriſt, caſts, or roules it ſelfe on Chriſt for ſalvation. Cauſe your heart in a ſolemne manner every day to act this part, or put forth this primitive act of faith in the veiw of the whole ſoule. The daily exerciſe hereof will increaſe, &amp; ſtrengthen the divine habit of faith in the ſoule, &amp; make the ſoule ſenſible of the very act of it. By frequent belee<g ref="char:EOLhyphen"/>ving you ſhall feele at your very heart, that you doe beleeve; ſo ſhall you have a witneſſe in your ſelfe, that you are in Chriſt, 1. Iohn. 5.10.</p>
+            <p n="2">2. By examininge your heart upon what grounds you take Chriſt to bee youres.</p>
+            <p>Are They
+<list>
+                  <item>1. A ſight, and ſenſe of your ſinnes, of the guilt, power, punſhiment of them, &amp; of your miſery by them? Math. 9.13.</item>
+                  <item>2. Your want of Chriſt ſeene, and felt at your very heart, to juſtifie, ſanctifie, redeeme, ſave you, elſe you are utterly loſt, and undone everlaſtinglie? Luke 19.10.</item>
+                  <item>3. Gods free, and generall offer of Chriſt to any that wil take him by faith Iohn 3.16. manifold promiſes to this purpoſe. The ground of all Gods offers,
+<pb n="5" facs="tcp:169453:3"/>&amp; donations of Chriſt beeing free grace, rich mercy, vndeſerved love, Eph. 2.4.5.7. Titus 3.4.5.6.</item>
+                  <item>4. Chriſts ſweet, and gracious invitatio<g ref="char:cmbAbbrStroke">̄</g> of ſuch to come to him as are weary of ſinne. Math. 11.28. to buy as haue no money. Iſaiah 55.1. no worth, or deſert in themſelves.</item>
+                  <item>5. As ſinfull vile wretches as you are have beene ſought of Chriſt, and found in Chriſt, as 1. Cor. 6.9.10.11. 1. Tim. 1.13. Phil. 3.7.8.9. why may not you?</item>
+               </list>
+            </p>
+            <p>The more cleerely you diſcerne vpon what grounds you take Chriſt, the more cleere is your title to Chriſt.</p>
+            <p n="3">3. By ſurvaying, &amp; obſerving in what manner you take Chriſt daily.</p>
+            <p>Whether
+<list>
+                  <item>1. You doe wholy renounce all opinio<g ref="char:cmbAbbrStroke">̄</g>, and conceite of your owne righteouſ<g ref="char:EOLhyphen"/>neſſe, &amp; deſert, <hi>Mark.</hi> 8.34. <hi>Phil.</hi> 3.7.8.9 ſoe that you come to Chriſt empty of your ſelfe, very vile, yea nothing in your owne eyes, unworthy to receive him.</item>
+                  <item>2. You lay hold on Chriſt alone with an empty hand of faith, joyninge no<g ref="char:EOLhyphen"/>thing at all with Chriſt in the matter of ſalvation.</item>
+                  <item>3. You find the Father drawing your heart after Chriſt <hi>Ioh.</hi> 6.44. in hungring, panting deſires, that will never bee ſa<g ref="char:EOLhyphen"/>tisfied without him; ſo that the ſtreame, both of your judgment, <hi>Phil.</hi> 3.7.8. and affections 1. <hi>Cor.</hi> 2.2. <hi>Gal.</hi> 6.14. runne towards him.</item>
+                  <item>4. You take Chriſt as a Lord to rule
+<pb n="6" facs="tcp:169453:4"/>you as well as a Ieſus to ſave you, <hi>Col.</hi> 2.6. As one that is all. To you your all, your wiſdome, your righteouſneſſe, your ſanctification, &amp; redemptio<g ref="char:cmbAbbrStroke">̄</g> 1. <hi>Cor.</hi> 1.30 your ſpirituall food. <hi>Iohn.</hi> 6. Rayment <hi>Rom.</hi> 13.14. Strength, <hi>Phil.</hi> 4.13. Life <hi>Gal.</hi> 2.20. <hi>Col.</hi> 3.3.</item>
+                  <item>5. You ſeeke, and wayte for Chriſt (out of the ſenſe of your ſpirituall penuty) in every ordinance, publicke, &amp; private, word, Sacraments, Prayer, Meditation, Conference; not as they are your owne workes of ſanctification, but as they are Gods Ordinances appointed of purpoſe for the manifeſtation, &amp; communicati<g ref="char:EOLhyphen"/>on of Chriſt to the ſoule.</item>
+               </list>
+            </p>
+            <p>Frequent peruſall hereof will cleere to you your manner of taking Chriſt, which will evidence to you your right in Chriſt.</p>
+            <p n="3">3. Labour to draw, and derive from Chriſt (by the pul<g ref="char:EOLhyphen"/>ling attractive force of faith) ability ſuf<g ref="char:EOLhyphen"/>ficient for the day.<note place="margin">
+                  <hi>Phil.</hi> 4.13. 2. <hi>Cor.</hi> 3.5. <hi>Iohn.</hi> 1.16.</note>
+            </p>
+            <list>
+               <item>1. To performe all the duties.</item>
+               <item>2. To exerciſe all the graces.</item>
+               <item>3. To reſiſt &amp; overcome all the ten<g ref="char:EOLhyphen"/>tations, and corruptions.</item>
+               <item>4. To vndergoe all the trialls, and af<g ref="char:EOLhyphen"/>flictions thereof.</item>
+            </list>
+            <p>Make your proviſion of grace, and ſtrength from Chriſt every morning, fetch ſoe much as you ſhall have oc<g ref="char:EOLhyphen"/>caſion to uſe all day long, yea and vpon all occaſions, that fall out in the day goe
+<pb n="7" facs="tcp:169453:4"/>to Chriſt ſtil for the wiſdome, that muſt direct you, for the holineſſe that muſt character you; for the ſhoulder, which muſt beare them, if they bee croſſes; for that ſtrength, that muſt reſiſt them, if they bee tentations; performe them, if they bee duties.</p>
+            <p>To this end act your faith daily in the promiſes of grace, and ſtrength, as <hi>Iohn.</hi> 1.16. <hi>Ezek.</hi> 36.26.27. <hi>Iſaiah</hi> 44.3. <hi>Zech.</hi> 10.12. which are both ſecurity given you by God, that you ſhal receive grace, and conduit-pipes, or inſtrume<g ref="char:cmbAbbrStroke">̄</g>ts of conveying the ſame from Chriſt vnto you.</p>
+            <p>This is the meanes to doe all in the ſtrength of Chriſt, and to take forth a great deale of Chriſt into your ſoule, that not you, but Chriſt may live in you <hi>Gal.</hi> 2.20.</p>
+            <p n="4">4. Performe daily duties both in family, and cloſet (eſ<g ref="char:EOLhyphen"/>pecially theſe 3. of Prayer, Meditation, reading) with ſerious intention, heate of affection, diligence, and delight, <hi>Ier.</hi> 48.10. <hi>Mal.</hi> 1.14. 1. <hi>Chron.</hi> 21.24. To this end.</p>
+            <p n="1">1. Watch to theſe duties, 1:e. keepe the heart in a good frame for them, <hi>Ephe.</hi> 6.18. vndefiled with ſinne, vntainted by the world.</p>
+            <p n="2">2. Take fitteſt time for performance of them all; when you are leaſt dull, and ſluggiſh. Beginne the day conſtantly with the thoughtes of God.</p>
+            <pb n="8" facs="tcp:169453:5"/>
+            <p n="3">3. Bee very reall, ſerious, and ſubſtan<g ref="char:EOLhyphen"/>tiall with God in them, Indeavour to feele all duties at your heart, inliving, in<g ref="char:EOLhyphen"/>larging, inflaming your affections.</p>
+            <p>Theſe bee duties of moſt importance, and conſequence, commodity, &amp; com<g ref="char:EOLhyphen"/>fort to the ſoule, becauſe they properly ayme at, and reach to ſoule-good, and celeſtiall happineſſe, to traine vp a ſoule for heaven.</p>
+            <p n="5">5. Fortifie your ſelves every morninge againſt your ſpe<g ref="char:EOLhyphen"/>ciall luſts to which you are by nature moſt prone, or ſhall bee moſt tempted, bee it pride, paſſion, covetouſneſſe &amp;c.</p>
+            <p n="1">1. By arguments, and holy reaſoninges within your ſelves, drawne from the ſad effects thereof, as diſprofit, diſcom<g ref="char:EOLhyphen"/>fort, diſgrace, or the like, to diſcover the vnreaſonableneſſe of your ſinne, and make your ſoule ashamed of it. For ex<g ref="char:EOLhyphen"/>ample shall I bee proud? then I am ſure to fall, for pride goes before a fall, and God will count mee for his enemy, for God reſiſteth the proud. Shall I bee an<g ref="char:EOLhyphen"/>gry? If I let paſſion in, I cannot keepe Sathan out, <hi>Ephe.</hi> 4, 26.27. I shall greive the holy ſpirit of God <hi>Ephe.</hi> 4.30.31. Shall I bee covetous? I cannot but bee very ſinful, ſith the love of money is the roote of all evill 1. <hi>Tim.</hi> 6.10.</p>
+            <p n="2">2. By pondering in your minde pre<g ref="char:EOLhyphen"/>ceptes in Gods booke againſt your ſinne judgments threatned, or inflicted for it, on proud Herod, voluptuous Dives, churlish Nabal.</p>
+            <pb n="9" facs="tcp:169453:5"/>
+            <p n="3">3. By applying promiſes of mortifica<g ref="char:EOLhyphen"/>tion cloſe to your heartes, as a plaiſter to the ſore, for ſubduinge your iniquitie <hi>Micah.</hi> 7.19. <hi>Rom.</hi> 6.14.</p>
+            <p n="4">4. By drawing vertue from Chriſts death into the ſoule, which hath in it a killinge force of ſinne, <hi>Rom.</hi> 6.4.5.6. <hi>Phil.</hi> 3.10.</p>
+            <p n="6">6. Get your heartes ſtrongly fixed on God, by truſting on him <hi>Pſal.</hi> 112.7. and ſubmitting to him 2. <hi>Sam.</hi> 15.26. 1. <hi>Sam.</hi> 3.18. againſt all the feares, cares, doubts, trialls, afflic<g ref="char:EOLhyphen"/>tions of every day, for ſufficient to the day is the evill thereof <hi>Math.</hi> 6.34. To this end.</p>
+            <p n="1">1. Bee prudent to fore-ſee your perſo<g ref="char:EOLhyphen"/>nall trialls, &amp; troubles, whatſoever they are like to bee <hi>Prov.</hi> 22.3.</p>
+            <p n="2">2. Goe hide, and lay vp your ſelfe in God, runne vnto his name, for God is a rocke of habitation to which a poore ſoule may continually reſort, God will give commandment to ſave him <hi>Pſal.</hi> 71.3. 1. <hi>Peter.</hi> 4 19.</p>
+            <p n="3">3. Eſpecially cornmit that very thing to God, put it into his handes, whatſoever you deſire to keepe, or feare to looſe, 2. <hi>Tim.</hi> 1.12. bee it life, libertie, name, freindes, maintenance, &amp;c. what you would have reſolved, if it bee a doubt <hi>Pſal.</hi> 37.5. or ſupplied, if it bee a want, remooved, if it bee a croſſe, <hi>Pſal.</hi> 50.15. &amp; together with the thing, caſt all your care, feare, ſorrow, &amp; trouble of minde
+<pb n="10" facs="tcp:169453:6"/>about it wholy on the lord. <hi>Math.</hi> 6.31. 1. <hi>Peter.</hi> 5.7. <hi>Pſal.</hi> 55.22.</p>
+            <p n="4">4. Renew your faith in thoſe promiſes every day which moſt concerne your preſent ſtate; as in promiſes of ſupplies, if you bee in want. <hi>Pſal.</hi> 34.8. and 37.3. and 84.11. <hi>Math.</hi> 6.30. of protection, if you bee in danger. <hi>Pſal.</hi> 34.7. of direc<g ref="char:EOLhyphen"/>tion, if in doubt; of deliverance, if in trouble, of a good end, and ſanctified uſe of all. <hi>Deut.</hi> 8.16. <hi>Iam.</hi> 5.11. <hi>Rom.</hi> 8.28. <hi>Heb.</hi> 12.10.</p>
+            <p n="5">5. Labour to ſee Gods hand. <hi>Pſal.</hi> 34.9. beleeve his love. <hi>Heb.</hi> 12.6. <hi>Rev.</hi> 3.19. and with all meekeneſſe, and patience to reſigne up your ſelfe wholy to his will in every affliction. <hi>Math.</hi> 26.39.</p>
+            <p n="7">7. Get, and keepe a ſavory relliſh continually of your chriſtian priviledges, wherewith you are inveſted as you are new creatures in Chriſt: to wit.</p>
+            <p n="1">1. Of your dignity, that you are Gods ſonnes, Chriſts bretheren, heavens heires, pertakers of a high, and heaven<g ref="char:EOLhyphen"/>ly calling.</p>
+            <p n="2">2. Of your libertye, that you are the Lords freemen dilivered out of the handes of all enemies.</p>
+            <p n="3">3. Of your victory, that you are thou<g ref="char:EOLhyphen"/>rough Chriſt more then Conquerors over all the world of Creatures. 1. <hi>Iohn.</hi> 5.4. of evils, of temptations, of per<g ref="char:EOLhyphen"/>ſecutions <hi>Rom</hi> 8.35.37.</p>
+            <p n="4">4. Of your ſafetie, that you have all<g ref="char:EOLhyphen"/>mighty
+<pb n="11" facs="tcp:169453:6"/>God for your place of refuge, <hi>Pſal.</hi> 18.2. a hedge of providence. <hi>Iob.</hi> 1.10. a Guard of angels. <hi>Pſal.</hi> 91.11. an incloſure of mercy. <hi>Pſal.</hi> 32.10. and Gods promiſe as a writ of protection for your defence. <hi>Heb.</hi> 13.5.6.</p>
+            <p n="5">5. Of your riches, as durable ſubſtance in heaven. <hi>Heb.</hi> 10.34. an incorruptible inheritance, 1. Pet. 1.4. a kingdome of glory, and crowne of life, for you are heires of God, &amp; co-heires with Chriſt.</p>
+            <p n="6">6. Of your Ioy, and pleaſure, precious for kind, and plentiful for meaſure. <hi>Pſal.</hi> 16.11. peace un-conceiveable <hi>phil.</hi> 4.7. joy un-ſpeakeable 1. <hi>peter.</hi> 1.8. the maſters joy.</p>
+            <p>Get your heartes affected with all theſe as being yours. Chew, and ſucke them by ſerious Meditation, worke, and warme them on your heartes by cloſe application, rubbing them into your affections. Oppoſe theſe your ſpirituall priviledges to all your tempo<g ref="char:EOLhyphen"/>rall preſſures, ſettinge the one againſt the other; as your heavenley freindes to your earthly foes, your high dignity in Chriſt to your meaner in outward condition? your wealth above to your want below; your future joyes, and reſt to your preſent troubles, and ſor<g ref="char:EOLhyphen"/>rowes. This will make you not onely patient under the afflictions of this life <hi>Rom.</hi> 12.12. but joyfull in them. <hi>Rom.</hi> 5.3. and triumphant over them. 1. <hi>Cor.</hi> 15.55. Thus did the Apoſtles. <hi>Rom.</hi> 8.18. 2. <hi>Cor.</hi> 4.17.8. and 6.8.9.10.</p>
+            <pb n="12" facs="tcp:169453:7"/>
+            <p>Theſe will provoke to duty 1. <hi>Peter.</hi> 9.11.12. and preſerve from fainting 2 <hi>Cor.</hi> 4.16.17. and from trouble of heart <hi>Iohn</hi> 14.1.2.</p>
+            <p n="8">8. Sanctifie God in your heart daily 1. <hi>Peter</hi> 3.15. make him your feare, <hi>Iſaiah.</hi> 8.14. your love, and delight <hi>Pſal.</hi> 37.4. To this end.</p>
+            <p n="1">1. Have often high, and honorable thoughtes of God, ſerious meditation of his glorious Attributes, as his wiſdome, power, truth, mercy, iuſtice, &amp;c. and worke them vpo<g ref="char:cmbAbbrStroke">̄</g> your heartes, that they may Eccho to them with pure, &amp; mel<g ref="char:EOLhyphen"/>tinge affections. This wil increaſe, and nourish vp the divine nature faſt in you.</p>
+            <p n="2">2. Labour to bee affected with all the workes of God, as to behold, &amp; admire the wiſdome of God in the creatures. <hi>Pſal.</hi> 136.5. to ſee, and taſt Gods good<g ref="char:EOLhyphen"/>neſſe in every mercy <hi>Pſal.</hi> 34.8. to take notice of, and tremble at the anger, and diſpleaſure of God in all Iudgmentes. <hi>Pſal.</hi> 119.120. <hi>Habb.</hi> 3.16. that you may anſwere the diſpenſations of Gods pro<g ref="char:EOLhyphen"/>vidence with ſutable diſpoſitions; your heartes carrying a counterpane in affec<g ref="char:EOLhyphen"/>tion to all Gods actions.</p>
+            <p n="3">3. Wreſtle with God by praying, and beleevinge for an heart of flesh. <hi>Ezek.</hi> 36.26. which will receive impreſſions from the very thoughtes of God in the minde Alſo apply promiſes of particular affec<g ref="char:EOLhyphen"/>tions. as of love. <hi>Deut.</hi> 30.6. feare. <hi>Ier.</hi> 32.40. delight, <hi>Iſaiah.</hi> 58.14. There is heate,
+<pb n="13" facs="tcp:169453:7"/>and life in theſe promiſes ſufficient to quicken, and warme thy dead, and fro<g ref="char:EOLhyphen"/>zen affections.</p>
+            <p n="9">9. Get a publicke ſpirit to mind the thinges of Ieſus Chriſt, as naturally as if they were your owne thinges. <hi>phil.</hi> 2.20.21. to looke on the things of others, and preferre Ieru<g ref="char:EOLhyphen"/>ſalems welfare before your cheifeſt joy <hi>pſal.</hi> 137.5.6. and the Goſpels liberty be<g ref="char:EOLhyphen"/>fore your owne, as Paul did; to mourne for the ſinnes of the times, as the God<g ref="char:EOLhyphen"/>ly in Ieruſalem did, <hi>Ezek.</hi> 9.4. Eſpeci<g ref="char:EOLhyphen"/>ally lay to heart.</p>
+            <p n="1">1. The Churches miſery, when Gods Ordinances goe downe, &amp; ſuperſtition goeth vp, when Gods cauſe, and fide are put to the worſe, when any thing falls out, which gives a blow to Religion, or prooves an impediment to the Goſpell. If the Arke bee taken call your com<g ref="char:EOLhyphen"/>forts Ichabods. <hi>Sam</hi> 4.21.</p>
+            <p n="2">2. The afflictions of Ioſeph, <hi>Amos</hi> 6.6. The ſufferinges of Gods ſervants, whe<g ref="char:EOLhyphen"/>ther Miniſters, or people. Oh ſympa<g ref="char:EOLhyphen"/>thize with them. <hi>Heb</hi> 13.3. <hi>Nehem.</hi> 1.4. labour to feele theire troubles, and ſor<g ref="char:EOLhyphen"/>rowes at your very heartes; and pray earneſtly for them, as the Church did for Peter <hi>Act.</hi> 12.5.</p>
+            <p n="3">3. The ſignes of the times. <hi>Math.</hi> 16.3. which hypocrites ca<g ref="char:cmbAbbrStroke">̄</g>not diſcerne, though they bee well verſed in the face of the sky, to wit, the ſad ſymptomes, &amp; preſa<g ref="char:EOLhyphen"/>ges of approaching Iudgment, as</p>
+            <pb n="14" facs="tcp:169453:8"/>
+            <list>
+               <item>1. The commoneſſe of ſinne; for all ſortes tranſgreſſe in all kind of open ſinfulneſſe with a high hand againſt light of nature,and meanes of grace. <hi>Gen.</hi> 15.15. <hi>Ezek.</hi> 22.4.</item>
+               <item>2. Contempt of Gods ordinances, miſ<g ref="char:EOLhyphen"/>uſing of his Miniſters. 2. <hi>Chron.</hi> 36.16.</item>
+               <item>3. Departure of Gods glory from his houſe. <hi>Ezek.</hi> 9.3.</item>
+               <item>4. Incorrigibleneſſe after former, and vnder preſent judgmentes. <hi>lev.</hi> 26.14.11</item>
+               <item>5. The death of many righteous men. <hi>Iſaiah.</hi> 57.1. the carryinge away of others to hidinge places.</item>
+               <item>6. The vialls of Gods wrath powred on the Churches beyond the Seaes. <hi>Ier.</hi> 17.12.14.</item>
+               <item>7. An Inundation of ſpirituall judg<g ref="char:EOLhyphen"/>mentes, as a ſpirit of error, ſuperſtition, apoſtacy &amp;c. which doe commonly end in temporall plagues <hi>Iſaiah.</hi> 6.10.11</item>
+            </list>
+            <p>Now the Holyghoſt is a publicke ſpirit breathing, and acting in all the members of the body myſticall. Pray for it. <hi>Luke.</hi> 11.13. beleeve for it, <hi>Gal.</hi> 3.14. <hi>Ezek.</hi> 36 27.</p>
+            <p n="10">10. Get your heartes weaned daily from the world, and from thoſe creatures, and comforts in itt, which are deareſt, and ſweeteſt to you. Wife, children, freindes, Goods, li<g ref="char:EOLhyphen"/>berty, houſe, life. This Chriſt requires of thoſe that follow him. <hi>Luke</hi> 14: 26.27 <hi>Mark.</hi> 10.29.30. this will prepare you ei<g ref="char:EOLhyphen"/>ther to ſuffer, or to dye, either of which may put you upon itt to looſe all. To this end conſider ſeriouſlie.</p>
+            <pb n="15" facs="tcp:169453:8"/>
+            <p n="1">1. That theſe thinges cannot ſatisfie your heart, when you have enjoyed them to the full. <hi>Eccles.</hi> 4.8. and 5.10. you ſoone grow weary of them, or glutted with them; ſoe that you deſyre ſome new delightes, or more of the old, or ſome over againe.</p>
+            <p n="2">2. Nor can they ſanctifye you, but ex<g ref="char:EOLhyphen"/>poſe you oft to many luſts. 1 <hi>Tim.</hi> 6.9.10. tentations, diſtractions, to a ſpirit of the world, and they hinder from follow<g ref="char:EOLhyphen"/>ing Chriſt. <hi>Math.</hi> 19.22.</p>
+            <p n="3">3. Nor can they ſave you from Gods wrath, fro<g ref="char:cmbAbbrStroke">̄</g> death, or judgment. <hi>pro</hi> 11.4.</p>
+            <p n="4">4. The wicked whoſe portion is onely here have often the greateſt ſhare of them, <hi>Pſal.</hi> 17.14. <hi>Iob</hi> 21.7. to 14.</p>
+            <p n="5">5. They ſerve onely for this life, whilſt wee are on this ſide, of the grave; they ſhall not bee the leaſt Ingredients into our celeſtiall happineſſe. When wee doe come to bee happy in heaven, wee ſhall ſtand in no need of food, rayment, Phyſick, marriage &amp;c. <hi>Math.</hi> 22.30. for wee ſhall bee like the angels of God in heaven, wee ſhall hunger no more, neither thirſt any more. <hi>Rev.</hi> 7.16. wee shall live by the all-ſufficient ſpirit of God, which never needes refreshing; wee shall bee clothed with long white robes of Immortalitye <hi>Rev.</hi> 7.9. In a word, when wee come to heaven the place of Gods Habitation wee shall enjoy the face, and beatificall
+<pb n="16" facs="tcp:169453:9"/>preſence of the moſt glorious Iehovah bleſſed for ever, as an object, wherein all the powers of our ſoules will be ſatisfied with ineffable delight, and everlaſting<g ref="char:EOLhyphen"/>neſſe. God will bee vnto vs all in all. 1. <hi>Cor.</hi> 15.28.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
